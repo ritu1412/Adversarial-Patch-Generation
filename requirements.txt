@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+tqdm
+numpy
+scipy
+torch
+torchvision
+pytorch-lightning>=1.4
+IPython
+tabulate
