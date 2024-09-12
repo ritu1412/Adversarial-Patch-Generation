@@ -40,7 +40,7 @@ To get started, you need to clone this repository and install the required depen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/adversarial-patch-generation.git
+    git clone https://github.com/ritu1412/Adversarial-Patch-Generation
     cd adversarial-patch-generation
     ```
 
